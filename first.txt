@@ -1,2 +1,2 @@
-This is my first text file.
-I had to create it.
+This is my first text file which I have created.
+I had to create it because of teh tutorial.
